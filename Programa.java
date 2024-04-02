@@ -8,7 +8,8 @@ public class Programa {
       //Exe04.executar();
       //Exe05.executar();
       //Exe06.executar();
-      Exe07.executar();
+      //Exe07.executar();
+      Exe08.executar();
 
 
 
